@@ -1,0 +1,1 @@
+Execute: php artisan migrate
